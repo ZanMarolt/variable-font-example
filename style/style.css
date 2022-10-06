@@ -1,0 +1,17 @@
+* {
+  font-family: "Roboto";
+}
+
+.wrapper {
+  padding: 5rem;
+}
+
+h1 {
+  font-family: "Roboto";
+  font-variation-settings: "wght" 800, "wdth" 500;
+}
+
+h3 {
+  font-family: "Roboto";
+  font-variation-settings: "wght" 100, "wdth" 100, "slnt" -10;
+}
